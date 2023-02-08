@@ -36,7 +36,7 @@ public class Main {
         Picture fanuca = new Picture(600,598,"resources/fanuca.png");
         fanuca.draw();
 
-        Picture oldGuy = new Picture(900,526, "resources/oldguy.png");
+        Picture oldGuy = new Picture(133,526, "resources/oldguy.png");
         oldGuy.draw();
 
     }
